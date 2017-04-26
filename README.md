@@ -1,6 +1,6 @@
 # npmtest-sms
 
-#### test coverage for  [sms (v0.0.13)](http://github.com/marcusbaer/node-sms)  [![npm package](https://img.shields.io/npm/v/npmtest-sms.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sms) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sms.svg)](https://travis-ci.org/npmtest/node-npmtest-sms)
+#### basic test coverage for  [sms (v0.0.13)](http://github.com/marcusbaer/node-sms)  [![npm package](https://img.shields.io/npm/v/npmtest-sms.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sms) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sms.svg)](https://travis-ci.org/npmtest/node-npmtest-sms)
 
 #### Send and receive SMS from a connected device with 3G modem.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-sms/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-sms/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-sms/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-sms/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-sms/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-sms/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-sms/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-sms/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-sms/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-sms/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-sms/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-sms/build/coverage.html/index.html)
 
